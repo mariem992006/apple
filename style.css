@@ -1,0 +1,27 @@
+*{
+    font-family: sans-serif;
+}
+.college{
+    padding-top: 90px;
+}
+.back{
+    background-color: #F5F5F7;
+}
+.secback{
+    background-color: #F5F5F7;
+}
+.thiback{
+    background: linear-gradient(to right, #D4EAF7, #E0EFF6, white);
+}
+.apple-img{
+    width:1000px;
+    height: 600px;
+    object-fit: cover;
+}
+.ent{
+    background-color: #F5F5F7;
+}
+.pho{
+    width: 600px;
+    height: 240px;
+}
